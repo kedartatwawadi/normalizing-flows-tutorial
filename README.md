@@ -4,7 +4,7 @@ Based on the code from:
 See the blog posts (<a href="http://blog.evjang.com/2018/01/nf1.html">Part 1</a>, <a href="http://blog.evjang.com/2018/01/nf2.html">Part 2</a>) for more information.
 
 
-# Initial thoughts Nov 18
+### Initial thoughts Nov 18
 For continuous flows: 
 1. Markov (Additive Noise, complex noise patterns), Hidden Markov noise are not difficult to learn flow for 
    (Sequence lengths are currently small: 3,4, no. of iterations required ~50000 even in these simple cases for planar flows. 
